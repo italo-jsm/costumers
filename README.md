@@ -9,7 +9,6 @@ It has all the basic operations on a database:
 ## Required Tools
 This project uses some build and quality tools.
 ### Build
-To build on docker 
 ### Docker
 It can be built from the costumer folder with the command:
 ```
